@@ -1,5 +1,5 @@
 FROM golang:latest AS base
-LABEL org.opencontainers.image.source https://github.com/rssnyder/discord-stock-ticker
+LABEL org.opencontainers.image.source https://github.com/hbh4mra/discord-stock-ticker
 
 WORKDIR /go/src/discord-stock-ticker
 
